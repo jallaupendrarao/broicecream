@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Sacramento", cursive;
 }
 .navbar {
    display: flex;
@@ -53,6 +54,7 @@ p {
     font-size: 30px;
     line-height: 60px;
     margin: 25px 0;
+    font-family: "Sacramento", cursive;
 }
 
 /* button  */
@@ -172,7 +174,7 @@ font-weight: normal;
 .home_bg_text{
     color: #fff;
     font-size: 3rem;
-    font-family: 'Stylish', sans-serif;
+    font-family: "Sacramento", cursive;
     margin-bottom: 1em;
 }
 
@@ -191,6 +193,6 @@ font-weight: normal;
 .home_bg-1_text{
     color: #fff;
     font-size: 3rem;
-    font-family: 'Stylish', sans-serif;
+    font-family: "Sacramento", cursive;
     margin-bottom: 1em;
 }
